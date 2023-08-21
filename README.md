@@ -8,6 +8,8 @@ The dataset provided for analysis includes the following columns:
 Job Title: The designation associated with each job role.
 AI Impact: A quantified measure, expressed as a percentage, reflecting the anticipated effect of AI integration on each job role.
 AI Workload: An indicator that gauges the workload of a job role concerning AI integration, factoring in the ratio of "tasks" to available "AI models" column.
+# we have also introduced a new column called CUMMULATIVE_AI_AUTOMATION which helps us to get better analysing power,the more the number of CUMMULATIVE_AI_AUTOMATION the more will be the chances of the job to get AI automated
+
 
 
 # Project Goals:
