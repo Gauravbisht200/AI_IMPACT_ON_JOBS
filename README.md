@@ -31,4 +31,4 @@ Prioritization Recommendations: Utilizing the insights gained from the analysis,
 By introducing a new composite factor that combines the AI Impact and AI Workload metrics, this project seeks to address the challenge of determining the viability of AI-driven automation for different job roles. Through data-driven analysis and insights, the project aims to provide actionable recommendations to facilitate the company's transition toward effective and efficient AI integration in specific job roles.
 
 # YOUTUBE EXPLAINATION OF PROJECT
-    https://youtu.be/K2_f9LtFo0U
+https://youtu.be/K2_f9LtFo0U
